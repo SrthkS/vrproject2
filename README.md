@@ -36,3 +36,6 @@ Because of these setbacks, there wasn't quite enough time to build everything we
 
 ## AI Usage & Collaboration
 Throughout the development of this project, we used ChatGPT to help navigate the initial setup and configuration phases. Since Meta Quest integration can be complex, we relied on AI to troubleshoot error messages and clarify the specific steps needed to get the Unity environment communicating with the headset. This was especially helpful for identifying compatible SDK versions and fixing common bugs during the installation process.
+
+## Demo Link
+https://youtu.be/hZ7G8vUNeX0
